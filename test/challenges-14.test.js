@@ -73,7 +73,7 @@ describe("Challenge14-05", () => {
     let res1 = "a4 b3 s1d1f1";
 
     let test2 = "Good morning";
-    let res2 = "G1o2d1 m1o1r1n2i1g1";
+    let res2 = "G1o2d1 m1o1r1ni1n1g1";
 
     expect(letterCounter(test1)).toEqual(res1);
     expect(letterCounter(test2)).toEqual(res2);
